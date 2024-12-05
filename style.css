@@ -1,0 +1,108 @@
+#menuBar {
+    display: block;
+    width: 980px;
+    padding: 12px 80px;
+}
+
+#logoDiv {
+    display: inline-block;
+}
+
+#MenuDiv {
+    display: inline-block;
+    margin: 0 152px;
+    color: #323232
+}
+
+#buttonDiv {
+    display: inline-block;
+}
+
+#Product {
+    display: inline-block;
+}
+
+#Services {
+    display: inline-block;
+    margin: 20px;
+    margin-right: 0;
+}
+
+#Resources {
+    display: inline-block;
+    margin: 20px;
+}
+
+#Offers {
+    display: inline-block;
+}
+
+#maininfoButton {
+    color: #AC00FF;
+    font-weight: 500;
+    border-radius: 8px;
+    border: 1px solid #AC00FF;
+    background: #E9D7FE;
+    padding: 8px 16px;
+}
+
+#Maina {
+    display: block;
+    width: 841px;
+    height: 314px;
+}
+
+#maininfo {
+    width: 841px;
+    display: block;
+    margin-left: 214px;
+}
+
+#MainTitle {
+    font-size: 64px ;
+    color: #323232 ;
+    font-weight: 400;
+    width: 720px;
+}
+
+#MainParagraph {
+    width: 800px;
+    font-size: 24px;
+
+}
+
+#Join {
+    display: inline;
+    color: #fff;
+    font-weight: 500;
+    font-size: 18px;
+    padding: 16px 24px;
+    width: 204px;
+    border-radius: 8px;
+    background: #5C3BAE;
+    border: none;
+    vertical-align: middle;
+
+}
+
+#MainImage {
+    display: inline;
+    vertical-align: middle;
+    margin-left: 24px;
+}
+
+#WatchVideo {
+    display: inline-block;
+    vertical-align: middle;
+    color: #4D3491;
+    width: 150px;
+    height: 22px;
+    font-size: 18px;
+    margin-left: 12px;
+}
+
+#LastImages {
+    text-align: right;
+
+}
+
